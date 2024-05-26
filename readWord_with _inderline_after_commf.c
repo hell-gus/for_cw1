@@ -1,3 +1,4 @@
+//пробелы добавляются после каждой запятой
 Word readWord() {
     int size = MEMORY_STEP;
     int len = 0;
